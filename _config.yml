@@ -15,7 +15,7 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "Gent Gjylbegu"
+title:       "Painting Course"
 keywords:    "jekyll, template, github, blog"
 description: "My personal website."
 source_link: "https://github.com/gentgjylbegu/gentgjylbegu.github.io"
