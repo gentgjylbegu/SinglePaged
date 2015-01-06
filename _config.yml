@@ -15,7 +15,7 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "About Macbuntu"
+title:       "Microsoft Windows System"
 keywords:    "jekyll, template, github, blog"
 description: "My personal website."
 source_link: "https://github.com/gentgjylbegu/gentgjylbegu.github.io"
